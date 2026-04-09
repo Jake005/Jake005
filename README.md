@@ -17,7 +17,7 @@ Skills
 
 
 
-<br><br><br>
+<br>
 <br>
 <br>
 ⚡  Open to messages, collabs, and cool projects!<br>
