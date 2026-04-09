@@ -1,4 +1,4 @@
-Hey there! 👋
+### **Hey there! 👋**
 
 I'm Chris, a student passionate about coding and technology. Currently living in Timișoara, I'm focused on robotics with a strong interest in both hardware and software.  
 
