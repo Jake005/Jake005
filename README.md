@@ -2,7 +2,7 @@
 
 I'm Chris, a student passionate about coding and technology. Currently living in Timișoara, I'm focused on robotics with a strong interest in both hardware and software.  
 
-I'm a former member of a robotics team and enthusiastic about networking, 3D modeling, and exploring new tech.  
+I'm a former member of a robotics team and enthusiastic about web development, networking, 3D modeling, and exploring new tech.  
 
 Right now, I'm working on my portfolio to showcase my experience and projects more accurately.
 
